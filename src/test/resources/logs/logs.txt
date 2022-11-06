@@ -1,0 +1,75 @@
+2022-11-04 12:10:41 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-04 12:10:41 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-04 12:10:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 15:51:33 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-04 15:51:33 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-04 15:51:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 15:55:10 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-04 15:55:10 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-04 15:55:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 16:12:28 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-04 16:12:28 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-04 16:12:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-04 16:12:38 INFO  Log:38 - !!!!anasayfaya gidildi!!!!
+2022-11-05 17:03:06 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-05 17:03:06 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-05 17:03:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-05 17:13:03 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-05 17:13:03 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-05 17:13:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-05 17:15:46 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-05 17:15:46 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-05 17:15:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-05 17:16:41 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-05 17:16:41 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-05 17:16:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-05 22:16:34 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-05 22:16:34 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-05 22:16:39 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-05 22:22:24 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-05 22:22:25 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-05 22:22:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-05 22:30:12 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-05 22:30:12 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-05 22:30:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-05 22:32:58 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-05 22:32:58 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-05 22:33:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-05 22:41:42 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-05 22:41:42 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-05 22:41:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\IdeaProjects\com.PatikaFinalCase\belirliClasslariCalistirma.xml
+
+2022-11-05 22:42:43 INFO  Log:38 - !!!!anasayfaya gidildi!!!!
+2022-11-05 22:46:01 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-05 22:46:01 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-05 22:46:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\IdeaProjects\com.PatikaFinalCase\belirliClasslariCalistirma.xml
+
+2022-11-05 22:47:02 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-05 22:47:02 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-05 22:47:14 INFO  Log:38 - !!!!anasayfaya gidildi!!!!
