@@ -58,6 +58,9 @@ public class HepsiBuradaPage {
     @FindBy(xpath = "(//button[@class='add-to-basket button small'])[1]")
     public WebElement ikinciUrunSepeteEkle;
 
+    @FindBy (xpath = "//*[text()='Sepete git']")
+    public WebElement sepeteGit;
+
     @FindBy (xpath = "//*[text()='Clear Men Kepeğe Karşı']")
     public WebElement dogruUrunDogrulama;
 

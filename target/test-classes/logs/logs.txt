@@ -65,3 +65,130 @@
   C:\Users\ErvaYucedal\IdeaProjects\com.PatikaFinalCase\belirliClasslariCalistirma.xml
 
 2022-11-05 22:42:43 INFO  Log:38 - !!!!anasayfaya gidildi!!!!
+2022-11-05 22:46:01 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-05 22:46:01 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-05 22:46:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\IdeaProjects\com.PatikaFinalCase\belirliClasslariCalistirma.xml
+
+2022-11-05 22:47:02 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-05 22:47:02 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-05 22:47:14 INFO  Log:38 - !!!!anasayfaya gidildi!!!!
+2022-11-07 00:32:26 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-07 00:32:26 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-07 00:32:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\IdeaProjects\com.PatikaFinalCase\belirliClasslariCalistirma.xml
+
+2022-11-07 00:33:28 INFO  Log:38 - !!!!anasayfaya gidildi!!!!
+2022-11-07 00:34:39 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-07 00:34:39 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-07 00:34:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\IdeaProjects\com.PatikaFinalCase\belirliClasslariCalistirma.xml
+
+2022-11-07 00:35:38 INFO  Log:38 - !!!!anasayfaya gidildi!!!!
+2022-11-07 00:38:37 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-07 00:38:37 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-07 00:38:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\IdeaProjects\com.PatikaFinalCase\belirliClasslariCalistirma.xml
+
+2022-11-07 00:39:04 INFO  Log:38 - !!!!anasayfaya gidildi!!!!
+2022-11-07 00:40:32 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-07 00:40:32 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-07 00:40:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\IdeaProjects\com.PatikaFinalCase\belirliClasslariCalistirma.xml
+
+2022-11-07 00:41:26 INFO  Log:38 - !!!!anasayfaya gidildi!!!!
+2022-11-07 00:44:29 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-07 00:44:29 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-07 00:44:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\IdeaProjects\com.PatikaFinalCase\belirliClasslariCalistirma.xml
+
+2022-11-07 00:45:27 INFO  Log:38 - !!!!anasayfaya gidildi!!!!
+2022-11-07 00:47:26 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-07 00:47:26 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-07 00:47:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\IdeaProjects\com.PatikaFinalCase\belirliClasslariCalistirma.xml
+
+2022-11-07 00:53:10 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-07 00:53:10 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-07 00:53:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\IdeaProjects\com.PatikaFinalCase\belirliClasslariCalistirma.xml
+
+2022-11-07 00:53:17 INFO  Log:17 - ---------------------------------------------------------------------------------------
+2022-11-07 00:53:18 INFO  Log:18 - ***********************        anasayfaya gidildi START    **************************
+2022-11-07 00:53:18 INFO  Log:19 - ---------------------------------------------------------------------------------------
+2022-11-07 00:53:18 INFO  Log:38 - !!!!cerezler kabul edildi!!!!
+2022-11-07 00:53:18 INFO  Log:38 - !!!!giriş yap butonuna tiklatildi!!!!
+2022-11-07 00:53:21 INFO  Log:38 - !!!!mail adresi girildi!!!!
+2022-11-07 00:53:22 INFO  Log:38 - !!!!parola girildi!!!!
+2022-11-07 00:53:22 INFO  Log:38 - !!!!kullanıcı girişiyle giriş yapıldı !!!!
+2022-11-07 00:53:28 INFO  Log:38 - !!!!kullanici giriş işlemi yapıldığı doğrulandı !!!!
+2022-11-07 00:53:29 INFO  Log:38 - !!!!kullanici satın almak istediği ürünü aradı !!!!
+2022-11-07 00:53:39 INFO  Log:38 - !!!!kullanici aradığı ilk ürünü seçer !!!!
+2022-11-07 00:53:46 INFO  Log:38 - !!!!kullanici aynı ürünü başka satıcıdan ekler !!!!
+2022-11-07 00:53:53 INFO  Log:38 - !!!!kullanici sepete ekler !!!!
+2022-11-07 00:53:53 INFO  Log:38 - !!!!kullanici dogru ürün ekledigini dogrular !!!!
+2022-11-07 00:53:53 INFO  Log:27 - ---------------------------------------------------------------------------------------
+2022-11-07 00:53:53 INFO  Log:28 - **************************        kullanici sayfayı kapatır  END    **************************
+2022-11-07 00:53:53 INFO  Log:29 - ---------------------------------------------------------------------------------------
+2022-11-07 00:53:54 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-07 00:53:54 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-07 00:53:59 INFO  Log:17 - ---------------------------------------------------------------------------------------
+2022-11-07 00:53:59 INFO  Log:18 - ***********************        anasayfaya gidildi START    **************************
+2022-11-07 00:53:59 INFO  Log:19 - ---------------------------------------------------------------------------------------
+2022-11-07 00:54:00 INFO  Log:38 - !!!!kullanici satın almak istediği ürünü aradı !!!!
+2022-11-07 00:54:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-07 00:54:29 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-07 00:54:29 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-07 00:54:38 INFO  Log:17 - ---------------------------------------------------------------------------------------
+2022-11-07 00:54:38 INFO  Log:18 - ***********************        anasayfaya gidildi START    **************************
+2022-11-07 00:54:38 INFO  Log:19 - ---------------------------------------------------------------------------------------
+2022-11-07 00:54:38 INFO  Log:38 - !!!!kullanici satın almak istediği ürünü aradı !!!!
+2022-11-07 00:56:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-07 00:56:39 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-07 00:56:39 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-07 00:56:48 INFO  Log:17 - ---------------------------------------------------------------------------------------
+2022-11-07 00:56:48 INFO  Log:18 - ***********************        anasayfaya gidildi START    **************************
+2022-11-07 00:56:48 INFO  Log:19 - ---------------------------------------------------------------------------------------
+2022-11-07 00:56:48 INFO  Log:38 - !!!!kullanici satın almak istediği ürünü aradı !!!!
+2022-11-07 00:57:00 INFO  Log:38 - !!!!kullanici aradığı ilk ürünü seçer !!!!
+2022-11-07 00:59:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-07 00:59:02 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-07 00:59:02 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-07 00:59:10 INFO  Log:17 - ---------------------------------------------------------------------------------------
+2022-11-07 00:59:10 INFO  Log:18 - ***********************        anasayfaya gidildi START    **************************
+2022-11-07 00:59:10 INFO  Log:19 - ---------------------------------------------------------------------------------------
+2022-11-07 00:59:10 INFO  Log:38 - !!!!kullanici satın almak istediği ürünü aradı !!!!
+2022-11-07 00:59:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-11-07 00:59:54 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-07 00:59:54 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-07 01:00:01 INFO  Log:17 - ---------------------------------------------------------------------------------------
+2022-11-07 01:00:01 INFO  Log:18 - ***********************        anasayfaya gidildi START    **************************
+2022-11-07 01:00:01 INFO  Log:19 - ---------------------------------------------------------------------------------------
+2022-11-07 01:00:01 INFO  Log:38 - !!!!cerezler kabul edildi!!!!
+2022-11-07 01:00:02 INFO  Log:38 - !!!!kullanici satın almak istediği ürünü aradı !!!!
+2022-11-07 01:00:09 INFO  Log:38 - !!!!kullanici aradığı ilk ürünü seçer !!!!
+2022-11-07 01:00:15 INFO  Log:38 - !!!!kullanici aynı ürünü başka satıcıdan ekler !!!!
+2022-11-07 01:00:19 INFO  Log:38 - !!!!kullanici sepete ekler !!!!
+2022-11-07 01:00:19 INFO  Log:38 - !!!!kullanici dogru ürün ekledigini dogrular !!!!
+2022-11-07 01:00:19 INFO  Log:27 - ---------------------------------------------------------------------------------------
+2022-11-07 01:00:19 INFO  Log:28 - **************************        kullanici sayfayı kapatır  END    **************************
+2022-11-07 01:00:19 INFO  Log:29 - ---------------------------------------------------------------------------------------
+2022-11-07 01:03:02 INFO  WebDriverManager:1093 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-07 01:03:02 INFO  WebDriverManager:1148 - Exporting webdriver.chrome.driver as C:\Users\ErvaYucedal\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-07 01:03:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ErvaYucedal\IdeaProjects\com.PatikaFinalCase\belirliClasslariCalistirma.xml
+
+2022-11-07 01:03:12 INFO  Log:17 - ---------------------------------------------------------------------------------------
+2022-11-07 01:03:12 INFO  Log:18 - ***********************        anasayfaya gidildi START    **************************
+2022-11-07 01:03:12 INFO  Log:19 - ---------------------------------------------------------------------------------------
+2022-11-07 01:03:12 INFO  Log:38 - !!!!cerezler kabul edildi!!!!
+2022-11-07 01:03:13 INFO  Log:38 - !!!!giriş yap butonuna tiklatildi!!!!
+2022-11-07 01:03:16 INFO  Log:38 - !!!!mail adresi girildi!!!!
