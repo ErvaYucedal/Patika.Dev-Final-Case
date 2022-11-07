@@ -25,21 +25,21 @@ Projeyi yapılandırmak için Maven, versiyon kontrol aracı olarak Git/Github k
 
 <hr/>
 
-## Runner Dosyası <br/>
-Runner classında kullandığım notasyonlar sayesinde burda çalıştırabildiğim <b>feature</b>  dosyalarının hem raporlarını alabiliyorum hemde istenilen methodların oluşturulması sağlanabiliyor 
+## xml Dosyası <br/>
+Xml dosyası sayesinde istediğim classları aynı anda çalıştırabilmemi sağlıyor. 
 
-## Screen Dosyası <br/>
-Bu dosyada Yanımda mobil uygulamasının testlerini gerçekleştireceğim elementlerin locatelerini sakladığım class bulunmaktadır. 
+## Page Dosyası <br/>
+Bu dosyada HepsiBurada sitesinin testlerini gerçekleştireceğim elementlerin locatelerini sakladığım class bulunmaktadır. 
 
-## StepDefinitons Dosyası <br/>
-Step Definitions dosyasında  tüm kodlarımın çalışmasını sağlayan methodlarımın bulunduğu class bulunmakta. Ayrıca ekran görüntüsü almak içinde bu dosyayı kullanıyorum. 
+## Tests Dosyası <br/>
+Tests dosyasında  tüm kodlarımın çalışmasını sağlayan methodlarımın bulunduğu class bulunmakta. 
  
 ### Utilities Dosyası <br/>
 Utilies dosyasında sürekli lazım olan classlar ve methodlar bulunuyor. Kod tasarrufuna gitmeyi ve projeyi daha anlaşılır hale getirmeyi sağlıyor. 
 <b> ConfigReader.class</b> , <b> Driver.class </b> ,  <b> ReusableMehods.class </b>   dosyaları bulunmaktadır. 
 
-## Resources Dosyası <br/>
-<b> feature </b> dosyasının bulunduğu dosyadır.Burda <b>BDD</b> (behavior Driven Development) kullanılarak ve <b> Gherking </b> dili kullanılarak featuremiz oluşturuluyor.Java kodlama dilini bilmeyen kişilerin daha iyi anlamasını sağlamaktadır.
+## Log Dosyası <br/>
+<b> Log </b> dosyasının bulunduğu dosyadır.Burda adımlarımızın bilgilendirilmesini yapıyoruz.
 
 ## <b> Configuration.properties </b>
 Properties dosyamızda sürekli kullandığımız variablelarımız bulunmakta , bu veriabları kullanmak için properties dosyası <b> Key  =  value </b> olaraka oluşturulmakta ,burdaki bilgileri başaka classlara çağırabilmek için utilities dosyasından
