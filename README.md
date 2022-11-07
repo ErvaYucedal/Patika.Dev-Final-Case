@@ -20,11 +20,16 @@ Projeyi yapılandırmak için Maven, versiyon kontrol aracı olarak Git/Github k
 
 <br/>
 <br/>
-![patika101test](https://user-images.githubusercontent.com/102468536/200270403-149e8e4c-7505-4570-ab25-0f6d48821959.png)
+
+(https://user-images.githubusercontent.com/102468536/200270477-7803a1f3-ee1e-4e67-9ff8-0d6ad28593c8.png)
+
 
 <br/>
 
 <hr/>
+
+
+
 
 ## xml Dosyası <br/>
 Xml dosyası sayesinde istediğim classları aynı anda çalıştırabilmemi sağlıyor. 
