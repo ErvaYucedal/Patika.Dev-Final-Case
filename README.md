@@ -21,7 +21,9 @@ Projeyi yapılandırmak için Maven, versiyon kontrol aracı olarak Git/Github k
 <br/>
 <br/>
 
-(https://user-images.githubusercontent.com/102468536/200270477-7803a1f3-ee1e-4e67-9ff8-0d6ad28593c8.png)
+
+
+
 
 
 <br/>
